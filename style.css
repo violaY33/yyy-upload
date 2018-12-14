@@ -1,0 +1,10 @@
+/* 页面样式 */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 50px 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
