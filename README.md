@@ -1,9 +1,10 @@
 # yyy-upload
 
-jquery图片上传插件，兼容IE9+。支持拖拽上传、图片类型、大小等设置。
+jquery图片上传插件，兼容IE9+。支持拖拽上传、图片类型、大小等设置。[查看在线演示](https://violay33.github.io/yyy-upload/demo.html)。
 
 ![效果演示](https://s1.ax1x.com/2018/12/18/F0zO0S.gif)
-[在线演示](https://violay33.github.io/yyy-upload/demo.html)
+
+
 
 
 
